@@ -1,1 +1,5 @@
-
+name: YouTube
+main: YouTube\Main
+version: 1.0.0
+api: 2.0.0
+auther: iBa4x
